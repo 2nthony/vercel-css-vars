@@ -1,0 +1,8 @@
+{
+  "name": "vercel-css-vars",
+  "description": "Vercel CSS Vars",
+  "version": "1.0.0",
+  "repository": "https://github.com/evillt/vercel-css-vars.git",
+  "author": "evillt <ijoec123@gmail.com>",
+  "license": "MIT"
+}
