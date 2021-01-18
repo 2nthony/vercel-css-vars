@@ -1,4 +1,4 @@
-# vercel css vars
+# vercel-css-vars
 
 ## Usage
 
