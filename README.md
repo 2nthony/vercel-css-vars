@@ -154,8 +154,8 @@ It might be out-of-date, so check the `index.css` for latest vars.
 
 ## Author
 
-**Saika** © [evillt](https://github.com/evillt), Released under the [MIT](./LICENSE) License.
+**vercel-css-vars** © [evillt](https://github.com/evillt), Released under the [MIT](./LICENSE) License.
 
-Authored and maintained by **EVILLT** with help from contributors ([list](https://github.com/evillt/saika/contributors)).
+Authored and maintained by **EVILLT** with help from contributors ([list](https://github.com/evillt/vercel-css-vars/contributors)).
 
 > [evila.me](https://evila.me) · GitHub [@evillt](https://github.com/evillt) · Twitter [@evillt](https://twitter.com/evillt)
